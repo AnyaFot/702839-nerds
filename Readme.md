@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Аня Фот](https://up.htmlacademy.ru/htmlcss/21/user/702839).
-* Наставник: `Виктория Коваленко` (https://htmlacademy.ru/profile/id42638).
+* Наставник: `Виктория Коваленко`(https://htmlacademy.ru/profile/id42638).
 
 ---
 
